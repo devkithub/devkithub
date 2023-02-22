@@ -18,7 +18,7 @@ A Skilled FullStack Developer 🚀 from VN. Always working on some project or le
 const mySelf = {
   name: "Minh Nguyen",
   country: "VietNam",
-  occupation: "FullStack Developer @ .Net software",
+  occupation: "FullStack Developer @ .Net, Angular webapp software",
   email: "nguyennhutminh.it@gmail.com",
 };
 ```
